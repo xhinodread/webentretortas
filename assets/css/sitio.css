@@ -8,4 +8,13 @@
 
 .btn-comprar-torta{
     background-color: #f04ef1;
+    color: #eee933;
+}
+
+.bg-banner{
+    background-color:#00c6b5ce ;
+}
+
+.border-banner {
+    border-color: #efe933!important;
 }
